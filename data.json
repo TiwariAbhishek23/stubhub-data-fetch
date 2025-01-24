@@ -1,0 +1,518 @@
+{
+    "items": [
+        {
+            "eventId": 154258379,
+            "eventName": "Philadelphia 76ers at New York Knicks",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/5662/6428579",
+            "url": "https://www.stubhub.com/new-york-knicks-new-york-tickets-2-26-2025/event/154258379/",
+            "localEventDate": "26 Feb 2025",
+            "localEventTime": "7:00 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Wed",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 5662,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-02-26T19:00:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1740596400000,
+                "day": "26",
+                "shortDate": "26 February",
+                "monthFull": "February",
+                "monthShort": "Feb",
+                "year": "2025",
+                "time": "7:00 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "5662": {
+                        "shortName": "Knicks",
+                        "market": "New York",
+                        "league": 1,
+                        "name": "New York Knicks"
+                    },
+                    "6567": {
+                        "shortName": "76ers",
+                        "market": "Philadelphia",
+                        "league": 1,
+                        "name": "Philadelphia 76ers"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 5662,
+                    "awayTeamId": 6567,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 154258405,
+            "eventName": "Philadelphia 76ers at New York Knicks",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/5662/6428579",
+            "url": "https://www.stubhub.com/new-york-knicks-new-york-tickets-4-1-2025/event/154258405/",
+            "localEventDate": "01 Apr 2025",
+            "localEventTime": "7:30 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Tue",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 5662,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-04-01T19:30:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1743535800000,
+                "day": "1",
+                "shortDate": "1 April",
+                "monthFull": "April",
+                "monthShort": "Apr",
+                "year": "2025",
+                "time": "7:30 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "5662": {
+                        "shortName": "Knicks",
+                        "market": "New York",
+                        "league": 1,
+                        "name": "New York Knicks"
+                    },
+                    "6567": {
+                        "shortName": "76ers",
+                        "market": "Philadelphia",
+                        "league": 1,
+                        "name": "Philadelphia 76ers"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 5662,
+                    "awayTeamId": 6567,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 153730806,
+            "eventName": "Minnesota Wild at New York Rangers",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/6639/6428476",
+            "url": "https://www.stubhub.com/new-york-rangers-new-york-tickets-4-2-2025/event/153730806/",
+            "localEventDate": "02 Apr 2025",
+            "localEventTime": "7:00 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Wed",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 6639,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-04-02T19:00:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1743620400000,
+                "day": "2",
+                "shortDate": "2 April",
+                "monthFull": "April",
+                "monthShort": "Apr",
+                "year": "2025",
+                "time": "7:00 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "6639": {
+                        "shortName": "Rangers",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Rangers"
+                    },
+                    "7230": {
+                        "shortName": "Wild",
+                        "market": "Minnesota",
+                        "league": 2,
+                        "name": "Minnesota Wild"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 6639,
+                    "awayTeamId": 7230,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 153730785,
+            "eventName": "Vegas Golden Knights at New York Rangers",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/6639/6428476",
+            "url": "https://www.stubhub.com/new-york-rangers-new-york-tickets-2-2-2025/event/153730785/",
+            "localEventDate": "02 Feb 2025",
+            "localEventTime": "6:00 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Sun",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 6639,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-02-02T18:00:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1738519200000,
+                "day": "2",
+                "shortDate": "2 February",
+                "monthFull": "February",
+                "monthShort": "Feb",
+                "year": "2025",
+                "time": "6:00 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "6639": {
+                        "shortName": "Rangers",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Rangers"
+                    },
+                    "54204": {
+                        "shortName": "Golden Knights",
+                        "market": "Vegas",
+                        "league": 2,
+                        "name": "Vegas Golden Knights"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 6639,
+                    "awayTeamId": 54204,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 153730827,
+            "eventName": "Pittsburgh Penguins at New York Rangers",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/6639/6428476",
+            "url": "https://www.stubhub.com/new-york-rangers-new-york-tickets-2-7-2025/event/153730827/",
+            "localEventDate": "07 Feb 2025",
+            "localEventTime": "7:00 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Fri",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 6639,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-02-07T19:00:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1738954800000,
+                "day": "7",
+                "shortDate": "7 February",
+                "monthFull": "February",
+                "monthShort": "Feb",
+                "year": "2025",
+                "time": "7:00 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "6639": {
+                        "shortName": "Rangers",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Rangers"
+                    },
+                    "6640": {
+                        "shortName": "Penguins",
+                        "market": "Pittsburgh",
+                        "league": 2,
+                        "name": "Pittsburgh Penguins"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 6639,
+                    "awayTeamId": 6640,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 153730797,
+            "eventName": "Edmonton Oilers at New York Rangers",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/6639/6428476",
+            "url": "https://www.stubhub.com/new-york-rangers-new-york-tickets-3-16-2025/event/153730797/",
+            "localEventDate": "16 Mar 2025",
+            "localEventTime": "7:00 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Sun",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 6639,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-03-16T19:00:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1742151600000,
+                "day": "16",
+                "shortDate": "16 March",
+                "monthFull": "March",
+                "monthShort": "Mar",
+                "year": "2025",
+                "time": "7:00 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "6639": {
+                        "shortName": "Rangers",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Rangers"
+                    },
+                    "6631": {
+                        "shortName": "Oilers",
+                        "market": "Edmonton",
+                        "league": 2,
+                        "name": "Edmonton Oilers"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 6639,
+                    "awayTeamId": 6631,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 153730775,
+            "eventName": "Washington Capitals at New York Rangers",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/6639/6428476",
+            "url": "https://www.stubhub.com/new-york-rangers-new-york-tickets-3-5-2025/event/153730775/",
+            "localEventDate": "05 Mar 2025",
+            "localEventTime": "7:30 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Wed",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 6639,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-03-05T19:30:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1741203000000,
+                "day": "5",
+                "shortDate": "5 March",
+                "monthFull": "March",
+                "monthShort": "Mar",
+                "year": "2025",
+                "time": "7:30 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "6639": {
+                        "shortName": "Rangers",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Rangers"
+                    },
+                    "6659": {
+                        "shortName": "Capitals",
+                        "market": "Washington",
+                        "league": 2,
+                        "name": "Washington Capitals"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 6639,
+                    "awayTeamId": 6659,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 153730771,
+            "eventName": "New York Islanders at New York Rangers",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/6639/6428476",
+            "url": "https://www.stubhub.com/new-york-rangers-new-york-tickets-3-3-2025/event/153730771/",
+            "localEventDate": "03 Mar 2025",
+            "localEventTime": "7:00 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Mon",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 6639,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-03-03T19:00:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1741028400000,
+                "day": "3",
+                "shortDate": "3 March",
+                "monthFull": "March",
+                "monthShort": "Mar",
+                "year": "2025",
+                "time": "7:00 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "6639": {
+                        "shortName": "Rangers",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Rangers"
+                    },
+                    "7362": {
+                        "shortName": "Islanders",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Islanders"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 6639,
+                    "awayTeamId": 7362,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 153730808,
+            "eventName": "Vancouver Canucks at New York Rangers",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/6639/6428476",
+            "url": "https://www.stubhub.com/new-york-rangers-new-york-tickets-3-22-2025/event/153730808/",
+            "localEventDate": "22 Mar 2025",
+            "localEventTime": "1:00 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Sat",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 6639,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-03-22T13:00:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1742648400000,
+                "day": "22",
+                "shortDate": "22 March",
+                "monthFull": "March",
+                "monthShort": "Mar",
+                "year": "2025",
+                "time": "1:00 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "6639": {
+                        "shortName": "Rangers",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Rangers"
+                    },
+                    "6633": {
+                        "shortName": "Canucks",
+                        "market": "Vancouver",
+                        "league": 2,
+                        "name": "Vancouver Canucks"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 6639,
+                    "awayTeamId": 6633,
+                    "tournamentId": 0
+                }
+            }
+        },
+        {
+            "eventId": 153730826,
+            "eventName": "Nashville Predators at New York Rangers",
+            "imageUrl": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_defaultLogo.jpg/t_f-fs-0fv,q_auto:low,f_auto,c_fill,$w_280_mul_3,$h_180_mul_3/categories/6639/6428476",
+            "url": "https://www.stubhub.com/new-york-rangers-new-york-tickets-3-2-2025/event/153730826/",
+            "localEventDate": "02 Mar 2025",
+            "localEventTime": "7:00 PM",
+            "isDateConfirmed": true,
+            "isTimeConfirmed": true,
+            "dayOfWeek": "Sun",
+            "venueName": "Madison Square Garden",
+            "formattedCityStateProvince": "New York, New York",
+            "similarEventsCount": 0,
+            "categoryId": 6639,
+            "minPrice": -1,
+            "isFavorite": false,
+            "aggregateFavorites": 0,
+            "utcEventDateTime": "0001-01-01T00:00:00.0000000Z",
+            "localEventDateTime": "2025-03-02T19:00:00.0000000Z",
+            "toastType": 0,
+            "eventDateTimeFormatted": {
+                "unixTimestamp": 1740942000000,
+                "day": "2",
+                "shortDate": "2 March",
+                "monthFull": "March",
+                "monthShort": "Mar",
+                "year": "2025",
+                "time": "7:00 PM"
+            },
+            "eventMetadata": {
+                "metadataForAllCategoriesInEvent": {
+                    "6639": {
+                        "shortName": "Rangers",
+                        "market": "New York",
+                        "league": 2,
+                        "name": "New York Rangers"
+                    },
+                    "6653": {
+                        "shortName": "Predators",
+                        "market": "Nashville",
+                        "league": 2,
+                        "name": "Nashville Predators"
+                    }
+                },
+                "sports": {
+                    "homeTeamId": 6639,
+                    "awayTeamId": 6653,
+                    "tournamentId": 0
+                }
+            }
+        }
+    ],
+    "totalCount": 100,
+    "pageIndex": 0,
+    "pageSize": 10,
+    "remaining": 90
+}
