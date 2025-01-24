@@ -29,7 +29,7 @@ class StubhubScraper:
             'Authorization': f'Basic {base_auth_token}'
         }
         self.base_url = "https://api.stubhub.com"
-        # self.authenticate()
+        self.authenticate()
 
     def authenticate(self):
         """Authenticate with StubHub API and get access token."""
