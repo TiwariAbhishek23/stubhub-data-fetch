@@ -63,7 +63,8 @@ class StubhubScraper:
         event_details = []
         try:
             proxy = random.choice(proxies_list)
-            response = requests.get(venue_url, headers=self.headers, proxies=proxy)
+            proxies = {'http': proxy, 'https': proxy}
+            response = requests.get(venue_url, headers=self.headers, proxies=proxies)
             response.raise_for_status()
             soup = BeautifulSoup(response.content, 'html.parser')
             events = soup.find_all('a', class_='sc-1x2zy2i-2 cYRIRc sc-97oil8-1 hZTepn')
@@ -113,13 +114,15 @@ class StubhubScraper:
         inventory_url = f"{self.base_url}/search/inventory/v2"
         data = {'eventid': event_id, 'rows': 200, 'start': 0}
         proxy = random.choice(proxies_list)
-        inventory = requests.get(inventory_url, headers=self.headers, params=data, proxies=proxy).json()
+        proxies = {'http': proxy, 'https': proxy}
+        inventory = requests.get(inventory_url, headers=self.headers, params=data, proxies=proxies).json()
         if pages:
             start = 200
             while start < inventory['totalListings']:
                 data['start'] = start
                 proxy = random.choice(proxies_list)
-                response = requests.get(inventory_url, headers=self.headers, params=data, proxies=proxy)
+                proxies = {'http': proxy, 'https': proxy}
+                response = requests.get(inventory_url, headers=self.headers, params=data, proxies=proxies)
                 response.raise_for_status()
                 inventory['listing'] += response.json()['listing']
                 start += 200
