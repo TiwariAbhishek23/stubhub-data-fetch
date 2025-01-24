@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import re
 from concurrent.futures import ThreadPoolExecutor
 import logging
+import random
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -16,6 +17,7 @@ client_id = ""  # API users have this, I don't have it :)
 client_secret = ""  # API users have this, I don't have it :)
 stubhub_username = ""
 stubhub_password = ""
+proxies_list = []
 
 class StubhubScraper:
     def __init__(self, client_id, client_secret):
@@ -60,7 +62,8 @@ class StubhubScraper:
         """Here I was not able to find any endpoint so I have used the BeautifulSoup to scrape the website"""
         event_details = []
         try:
-            response = requests.get(venue_url, headers=self.headers)
+            proxy = random.choice(proxies_list)
+            response = requests.get(venue_url, headers=self.headers, proxies=proxy)
             response.raise_for_status()
             soup = BeautifulSoup(response.content, 'html.parser')
             events = soup.find_all('a', class_='sc-1x2zy2i-2 cYRIRc sc-97oil8-1 hZTepn')
@@ -109,12 +112,14 @@ class StubhubScraper:
         request_count = 0
         inventory_url = f"{self.base_url}/search/inventory/v2"
         data = {'eventid': event_id, 'rows': 200, 'start': 0}
-        inventory = requests.get(inventory_url, headers=self.headers, params=data).json()
+        proxy = random.choice(proxies_list)
+        inventory = requests.get(inventory_url, headers=self.headers, params=data, proxies=proxy).json()
         if pages:
             start = 200
             while start < inventory['totalListings']:
                 data['start'] = start
-                response = requests.get(inventory_url, headers=self.headers, params=data)
+                proxy = random.choice(proxies_list)
+                response = requests.get(inventory_url, headers=self.headers, params=data, proxies=proxy)
                 response.raise_for_status()
                 inventory['listing'] += response.json()['listing']
                 start += 200
